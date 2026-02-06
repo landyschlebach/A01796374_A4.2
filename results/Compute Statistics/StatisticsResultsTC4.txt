@@ -1,0 +1,14 @@
+====Inicio del procesamiento====
+Inicio de ejecución: Feb 05, 2026 20:25:48
+Registros totales: 12624
+====Estadísticas Descriptivas====
+Media: 149.0027
+Mediana: 147.7500
+Moda: [123.75]
+Varianza: 17009.2682
+Desviación Estándar: 130.4196
+====Fin del procesamiento====
+Registros procesados: 12624
+Registros con errores/no procesados: 0
+Duración del procesamiento: 00:00:00.0459
+Fin de ejecución: Feb 05, 2026 20:25:48
