@@ -2,6 +2,7 @@
 Ejercicio de Programación 2: Converter.
 Programa CL para convertir un número a base binaria y hexadecimal.
 """
+# pylint: disable=invalid-name
 
 import sys # librería necesaria para leer argumentos desde línea de comandos
 import time # librería necesaria para medir el tiempo de ejecución

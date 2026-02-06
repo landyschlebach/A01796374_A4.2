@@ -4,6 +4,7 @@ Programa CL para calcular estadísticas descriptivas a partir de un archivo
 como parámetro.
 Incluye media, mediana, moda, desviación estándar y varianza.
 """
+# pylint: disable=invalid-name
 
 import sys # librería necesaria para leer argumentos desde línea de comandos
 import time # librería necesaria para medir el tiempo de ejecución

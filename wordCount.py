@@ -2,6 +2,7 @@
 Ejercicio de Programación 3: Count Words.
 Programa CL para contar la freecuencia de las palabras en un archivo.
 """
+# pylint: disable=invalid-name
 
 import sys # librería necesaria para leer argumentos desde línea de comandos
 import time # librería necesaria para medir el tiempo de ejecución
