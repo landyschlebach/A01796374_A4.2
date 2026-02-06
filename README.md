@@ -1,6 +1,10 @@
 # Actividad 4.2: Estándar de codificación PEP-8 & Pylint
 ```
 A01796374_A4.2/
+ ├── src/                     <- Archivos fuente proporcionados como recursos de apoyo
+ │   ├── P1/
+ │   ├── P2/
+ │   ├── P3/
  ├── results/                 <- Resultados de las ejecuciones de cada programa con los recursos de apoyo proporcionados
  │   ├── Compute Statistics/
  │   │   ├── StatisticsResultsTC1.txt
@@ -10,20 +14,20 @@ A01796374_A4.2/
  │   │   ├── StatisticsResultsTC5.txt
  │   │   ├── StatisticsResultsTC6.txt
  │   │   ├── StatisticsResultsTC7.txt
- │   │   ├── README.md       <- Print screens of results per each test case
+ │   │   ├── README.md        <- Print screens of results per each test case
  │   ├── Converter/
  │   │   ├── ConvertionResultsTC1.txt
  │   │   ├── ConvertionResultsTC2.txt
  │   │   ├── ConvertionResultsTC3.txt
  │   │   ├── ConvertionResultsTC4.txt
- │   │   ├── README.md       <- Print screens of results per each test case
+ │   │   ├── README.md        <- Print screens of results per each test case
  │   ├── Count Words/
  │   │   ├── WordCountResultsTC1.txt
  │   │   ├── WordCountResultsTC2.txt
  │   │   ├── WordCountResultsTC3.txt
  │   │   ├── WordCountResultsTC4.txt
  │   │   ├── WordCountResultsTC5.txt
- │   │   ├── README.md       <- Print screens of results per each test case
+ │   │   ├── README.md        <- Print screens of results per each test case
  ├── computeStatistics.py
  ├── convertNumbers.py 
  ├── wordCount.py 
